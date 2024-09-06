@@ -10,5 +10,6 @@ public class HolaMundo {
 	System.out.println("La tercera es la buena-Ines");
 	System.out.println("Hola de nuevo- Ines");
 	System.out.println("Hola Soy Valeria");
+	System.out.println("Hola de nuevo soy valeria, esta ves es la vencida");
     }
 }
