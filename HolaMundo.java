@@ -11,5 +11,6 @@ public class HolaMundo {
 	System.out.println("Hola de nuevo- Ines");
 	System.out.println("Hola Soy Valeria");
 	System.out.println("Hola de nuevo soy valeria, esta ves es la vencida");
+	System.out.println("Edicion Valeria 2");
     }
 }
